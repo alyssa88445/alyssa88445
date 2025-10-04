@@ -27,11 +27,11 @@ Built sophisticated document analysis pipelines using LangGraph orchestration wi
 ### Leadership & Community
 **Girls Who Code @ NU London** - Founded and lead the chapter to promote diversity in tech and create learning opportunities for aspiring women developers.
 
-## 📫 Let's Connect
+## Let's Connect
 - LinkedIn: https://www.linkedin.com/in/alyssa-lin-84b404243/
 - Email: alyssa8845@gmail.com
   
-## 💡 Interests
+## Interests
 When I'm not coding, you'll find me following F1 racing, experimenting with ML model training, or working through algorithm optimization problems. Always excited to collaborate on projects involving AI systems, embedded programming, or impactful social tech!
 
 *Open to summer 2026 internships and co-op opportunities in software engineering and AI!*
