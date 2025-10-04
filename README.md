@@ -1,4 +1,4 @@
-# Hi, I'm Alyysa! 
+# Hi, I'm Alyssa! 
 **Computer Science Sophomore @ Northeastern University | AI Engineer Intern @ KlarityCrest**
 
 I'm passionate about building intelligent systems that solve real-world problems. Currently working on multi-agent AI architectures and embedded systems, with a focus on making technology more accessible and impactful.
