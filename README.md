@@ -11,10 +11,10 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## Technical Skills
 
-**Languages**: Python, Java, C, Kotlin, JavaScript, HTML
-**AI/ML**: LangChain, LangGraph, TF-IDF, Statistical Clustering, Semantic Analysis, Pandas, Numpy
-**Embedded**: STM32CubeMX, ARM64, UTM Virtualization, Docker, Altium 
-**Tools**: Git, Linux/Ubuntu Server, API Integration
+- **Languages**: Python, Java, C, Kotlin, JavaScript, HTML
+- **AI/ML**: LangChain, LangGraph, TF-IDF, Statistical Clustering, Semantic Analysis, Pandas, Numpy
+- **Embedded**: STM32CubeMX, ARM64, UTM Virtualization, Docker, Altium 
+- **Tools**: Git, Linux/Ubuntu Server, API Integration
 
 ## Notable Projects
 
