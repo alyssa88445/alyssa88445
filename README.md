@@ -18,10 +18,10 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## Notable Projects
 
-### [FoodTLK]
+### FoodTLK
 Machine learning system for dynamic produce pricing that earned Silver Medal at Genius Olympiad 2023. Leverages predictive models to optimize food pricing and reduce waste, projecting 30% reduction for partner retailers.
 
-### [KlarityCrest]
+### KlarityCrest
 Built sophisticated document analysis pipelines using LangGraph orchestration with contamination detection and semantic fingerprinting. Code samples available upon request.
 
 ### [Marble Solitaire - OOD](https://github.com/alyssa88445/marble-solitaire-ood)
