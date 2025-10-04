@@ -24,6 +24,9 @@ Machine learning system for dynamic produce pricing that earned Silver Medal at 
 ### [KlarityCrest](https://github.com/alyssa88445/repo-name)
 Built sophisticated document analysis pipelines using LangGraph orchestration with contamination detection and semantic fingerprinting. Code samples available upon request.
 
+### [Marble Solitaire - OOD](https://github.com/alyssa88445/marble-solitaire-ood)
+Java implementation featuring English, European, and Triangle variants with MVC architecture. Demonstrates object-oriented design principles including abstract base classes, polymorphism, and comprehensive test coverage.
+
 ### Leadership & Community
 **Girls Who Code @ NU London** - Founded and lead the chapter to promote diversity in tech and create learning opportunities for aspiring women developers.
 
