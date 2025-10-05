@@ -27,6 +27,9 @@ Built sophisticated document analysis pipelines using LangGraph orchestration wi
 ### [Marble Solitaire - OOD](https://github.com/alyssa88445/marble-solitaire-ood)
 Java implementation featuring English, European, and Triangle variants with MVC architecture. Demonstrates object-oriented design principles including abstract base classes, polymorphism, and comprehensive test coverage.
 
+### [UX Wireframes - Figma](https://www.figma.com/design/Uu0VfKqpHFyrbrgegxV8m9/Wireframes?t=Tug9jW29ikW0InNB-0)
+User experience design project focusing on wireframing and interface design, showcasing user-centered design principles and prototyping skills.
+
 ### Leadership & Community
 **Girls Who Code @ NU London** - Founded and lead the chapter to promote diversity in tech and create learning opportunities for aspiring women developers.
 
